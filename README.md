@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: <a href="mailto:mohammedsaadk1252.de@gmail.com">Gmail</a>
 <!--- <p align="left"> <img src = "https://komarev.com/ghpvc/?username=msk-saad&color=green&style=flat-square" alt="msk-saad" /> </p> --->
 
-## Tech Stack
+<!-- ## Tech Stack -->
 
 <!--
 ### Programming Languages
