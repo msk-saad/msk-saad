@@ -15,25 +15,26 @@ msk-saad/msk-saad is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 🔭 I’m currently working on FullStack Development.
-- 🌱 I’m currently learning DSA and NextJS. 
-- 👯 I’m looking to collaborate on open source projects 🧑🏻‍💻
+- 🔭 I’m currently working on Data Engineering.
+- 🌱 I’m currently learning PySpark and Databricks. 
+- 👯 I’m looking to collaborate on open source data engineering projects 🧑🏻‍💻
 - 🤔 I’m looking forward to meet amazing like-minded people.
-- ⚡ I'm passionate about Software and Technology.
-- 📫 How to reach me: <a href="mailto:developersaad12@gmail.com">Gmail</a>
+- ⚡ I'm passionate about Artificial Intelligence/Machine Learning, Big Data, Cloud Computing and Software Development.
+- 📫 How to reach me: <a href="mailto:mohammedsaadk1252.de@gmail.com">Gmail</a>
 <!--- <p align="left"> <img src = "https://komarev.com/ghpvc/?username=msk-saad&color=green&style=flat-square" alt="msk-saad" /> </p> --->
 
 ## Tech Stack
 
-### Frontend Development
-![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!--
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![shell Scripting](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+
+### Data Engineering & Big Data
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
 
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -54,10 +55,9 @@ You can click the Preview link to take a look at your changes.
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## In Future
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) -->
 
 
 ##  Let's Connect
-[![Code Palace](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-saad-k-622595220/)
-[![Code Palace](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaadCoder)
-[![Code Palace](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developersaad12@gmail.com)
+[![Code Palace](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-saad-k/)
+[![Code Palace](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedsaadk1252.de@gmail.com)
